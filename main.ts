@@ -1,3 +1,6 @@
+// Created by: Mariam Abugamga
+// Created on: Oct, 7, 2020
+// this program uses a potentiometer and a servo.
 let potentiometer = 0
 basic.showIcon(IconNames.Heart)
 basic.forever(function () {
